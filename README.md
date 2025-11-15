@@ -1,6 +1,6 @@
-# NexusX – ISL Gesture Recognition (3rd Sem Project)
+# VedaX – ASL Gesture Recognition (3rd Sem Project)
 
-This project detects Indian Sign Language (A–Z) using image-based training and real-time gesture recognition through a webcam.  
+This project detects American Sign Language (A–Z) using image-based training and real-time gesture recognition through a webcam.  
 It was built during Smart India Hackathon by Team **NexusX** (Shriraksha, Yukthi, Ayush, Amrutha) in 3rd semester.  
 The model uses MediaPipe keypoints, TensorFlow, and OpenCV to identify hand gestures and output the predicted alphabet live on screen.
 
