@@ -1,0 +1,57 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+
+# Models
+*.h5
+*.json
+
+# Logs
+Logs/
+
+# Temporary folders
+temp/
+tmp/
+
+# Mediapipe / Keypoint data (VERY LARGE)
+MP_Data/
+dataset_keypoints/
+
+# Raw dataset images (A–Z)
+images/
+dataset/
+A/
+B/
+C/
+D/
+E/
+F/
+G/
+H/
+I/
+J/
+K/
+L/
+M/
+N/
+O/
+P/
+Q/
+R/
+S/
+T/
+U/
+V/
+W/
+X/
+Y/
+Z/
+
+# Videos
+videos/
+
+# IDE files
+.vscode/
