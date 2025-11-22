@@ -1,7 +1,7 @@
 # VedaX – ASL Gesture Recognition (3rd Sem Project)
 
 This project detects American Sign Language (A–Z) using image-based training and real-time gesture recognition through a webcam.  
-It was built during Smart India Hackathon by Team **NexusX** (Shriraksha, Yukthi, Ayush, Amrutha) in 3rd semester.  
+It was built during Smart India Hackathon by Team **VEDAX** (Shriraksha, Yukthi, Ayush, Amrutha) in 3rd semester.  
 The model uses MediaPipe keypoints, TensorFlow, and OpenCV to identify hand gestures and output the predicted alphabet live on screen.
 
 ### ✨ Features
@@ -46,7 +46,7 @@ You can add your own dataset inside:
 The dataset used in this project is available [here on Kaggle](https://www.kaggle.com/datasets/shreerakshagourayya/indian-sign-language-az-dataset-nexusx/data/data/data).
 
 ### Collection Methodology
-- Videos of different ISL gestures were recorded using a webcam by all team members.  
+- Videos of different ASL gestures were recorded using a webcam by all team members.  
 - Each gesture was repeated multiple times to ensure variety and accuracy.  
 - Keypoints for hands, face, and body were extracted using MediaPipe.  
 - Data was labeled carefully to maintain consistency.  
